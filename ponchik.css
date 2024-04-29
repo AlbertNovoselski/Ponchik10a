@@ -6,3 +6,19 @@
     margin-left: 42%;
     margin-top: 17%;
 }
+
+.box2 {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 42%;
+}
+
+.pencil {
+    width: 550px;
+    height: 175px;
+    background-color: red;
+    border-radius: 30%;
+    margin-left: 20%;
+}

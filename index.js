@@ -23,7 +23,7 @@ obj2.stroke();
 var canvas = document.getElementById("circle3");
 var obj3 = canvas.getContext("2d");
 
-obj3.beginPath();
+obj3.beginPath(Infinity);
 obj3.scale(1,2);
 obj3.arc(175,26,25,0,2*Math.PI,false);
 obj3.restore();

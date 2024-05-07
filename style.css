@@ -1,0 +1,12 @@
+img {
+    height: 250px;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
+.techa {
+ font-size: 26px;
+ font-weight: bold;
+}

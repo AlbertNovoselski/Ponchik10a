@@ -7,8 +7,10 @@ img {
 }
 
 .techa {
- font-size: 32px;
+ font-size: 64px;
  font-weight: bold;
+ font-family: 'Brush Script MT';
+ 
 }
 
 .techaPIC {
@@ -19,3 +21,4 @@ img {
 p {
     font-size: 18px;
 }
+
